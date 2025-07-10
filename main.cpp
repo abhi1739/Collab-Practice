@@ -1,8 +1,11 @@
 #include <iostream>
 using namespace std;
 
-int main()
-{
-    cout << "Hello Abhinav+ preEETham";
+void greet() {
+    cout << "Hello, world!" << endl;
+}
+
+int main() {
+    greet();
     return 0;
 }
