@@ -1,10 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
+void greet()
 {
-    cout << "Hello Abhinav and Preetham +sajndjansdkjnaskjdnaskjn";
-    cout << "Hello Abhinav+ preEETham";
-
-    return 0;
+    cout << "hello" << endl;
 }
